@@ -1,0 +1,8 @@
+cl_runs/
+msk/
+models
+*.sbatch
+.DS_Store
+.Rhistory
+.find_dl.r.swp
+Rplots.pdf
